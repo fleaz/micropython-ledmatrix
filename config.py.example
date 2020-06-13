@@ -1,0 +1,7 @@
+# WIFI
+WIFI_SSID = "homeautomation"
+WIFI_PASS = "supersecret"
+
+PORT = 10080
+
+LED_COUNT = 36
